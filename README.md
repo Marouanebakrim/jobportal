@@ -175,11 +175,7 @@ Publication de 20 offres d'emploi variées.
 Création de 40 candidatures réparties avec statuts diversifiés.
 🧑‍💻 Auteur
 👨‍💻 Marouane BAKRIM
-📧 Email : 
-
-maroaunebakrim538@gmail.com
-
-🐙 GitHub : @Marouanebakrim
+📧 Email : maroaunebakrim538@gmail.com
 
 📂 Clonage et exécution
 1. Cloner le dépôt

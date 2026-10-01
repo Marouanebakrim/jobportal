@@ -1,6 +1,3 @@
-Voici une documentation **`README.md` complète, structurée et riche en icônes**, calquée exactement sur le modèle de votre projet DVLD et adaptée à **JobPortal** :
-
----
 
 # 💼 JobPortal – Plateforme Web de Recrutement et de Recherche d'Emploi
 
@@ -213,7 +210,6 @@ L'application intègre un **mécanisme de génération automatique de données d
 
 👨‍💻 **Marouane BAKRIM**  
 📧 Email : [maroaunebakrim538@gmail.com](mailto:maroaunebakrim538@gmail.com)  
-🐙 GitHub : [@Marouanebakrim](https://github.com/Marouanebakrim)
 
 ---
 
